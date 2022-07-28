@@ -1,14 +1,17 @@
 # Hi there 👋
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
 
-<!--
-- 🔭 I’m currently working on [Glint](https://glint.info)
+## 🛠️ I'm currently working on
+[Glint](https://glint.info) - A GUI for Git
 
--->
+## 🌄 I'm interested in working on
+* A SPA framework for PureScript
+* Ethereum / Web3 projects
+* Artifical Intelligence
 
-## Tech
+## 👨‍💻 Tech
 
-### Used recently
+### 😃 Used recently
 
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
@@ -22,7 +25,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-14161A?logo=html5)
 ![Sass](https://img.shields.io/badge/-SCSS-14161A?logo=sass)
 
-### Want to use
+### 🤩 Excited about
 
 ![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 ![PureScript](https://img.shields.io/badge/-PureScript-14161A?logo=PureScript)
@@ -32,8 +35,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-14161A?logo=GraphQL&logoColor=E10098)
 ![DGraph](https://img.shields.io/badge/-DGraph-14161A?logo=DGraph&logoColor=E50695)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
+![Ethereum](https://img.shields.io/badge/-Ethereum-14161A?logo=Ethereum)
 
-### Stay away from
+### 🤮 Stay away from
 
 ![PHP](https://img.shields.io/badge/-PHP-14161A?logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-14161A?logo=Gradle&logoColor=034a59)
@@ -41,7 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-14161A?logo=JavaScript)
 
 
-## Stats
+## 📈 Stats
 [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mikejerred&branding=false&badges=0&width=250&style=--header-bg-color:%231e1e1e;--bg-color:%231e1e1e;)](https://profile.codersrank.io/user/mikejerred)
 
 [![GitHub](https://github-readme-stats.vercel.app/api?username=MikeJerred&count_private=true&show_icons=true&theme=dark&icon_color=29b6f6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
