@@ -26,10 +26,12 @@
 
 ![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 ![PureScript](https://img.shields.io/badge/-PureScript-14161A?logo=PureScript)
+![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=Tauri)
 ![Solid](https://img.shields.io/badge/-Solid-14161A?logo=Solid&logoColor=2C4F7C)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-14161A?logo=GraphQL&logoColor=E10098)
 ![DGraph](https://img.shields.io/badge/-DGraph-14161A?logo=DGraph&logoColor=E50695)
+![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 
 ### Stay away from
 
