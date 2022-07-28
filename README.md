@@ -7,9 +7,17 @@
 ## Tech
 
 ### Recently Used
+* Typescript
+* C#
+* node.js
+* electron
 
 ### Want to use
 * [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="20px" /> Haskell](https://www.haskell.org/)
+* [<img width="20px" src="https://i.imgur.com/O03IAWc.png" /> PureScript](https://www.purescript.org/)
+* [SolidJS](https://www.solidjs.com/)
+* [Vite](https://vitejs.dev/)
+* [Bun](https://bun.sh/)
 
 -->
 
