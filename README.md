@@ -1,5 +1,8 @@
 # Hi there 👋
+<!---
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
+-->
+![visitors 2](https://visitor-badge.glitch.me/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
 
 ## 🛠️ I'm currently working on
 [Glint](https://glint.info) - A GUI for Git
