@@ -5,7 +5,7 @@
 ![visitors 2](https://visitor-badge.glitch.me/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
 
 ## 🛠️ I'm currently working on
-[Glint](https://glint.info) - A GUI for Git
+[![glint](https://snapcraft.io/glint/badge.svg)](https://glint.info)
 
 ## 🌄 I'm interested in working on
 * An SPA framework for PureScript
