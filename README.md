@@ -1,8 +1,9 @@
 # Hi there 👋
 <!---
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
--->
 ![visitors 2](https://visitor-badge.glitch.me/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
+-->
+![View counter badge](https://mjerred.mjerred.workers.dev?style=classic)
 
 ## 🛠️ I'm currently working on
 [![glint](https://snapcraft.io/glint/badge.svg)](https://glint.info)
