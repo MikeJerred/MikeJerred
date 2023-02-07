@@ -2,11 +2,17 @@
 <!---
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
 ![visitors 2](https://visitor-badge.glitch.me/badge?page_id=MikeJerred.MikeJerred&color=29b6f6)
+
+[![glint](https://snapcraft.io/glint/badge.svg)](https://glint.info)
 -->
 ![View counter badge](https://mjerred.mjerred.workers.dev?style=classic)
 
 ## 🛠️ I'm currently working on
-[![glint](https://snapcraft.io/glint/badge.svg)](https://glint.info)
+<div>
+<img align=middle src="https://i.imgur.com/CEMHr0N.png" height="48"> &nbsp
+<img align=middle src="https://snapcraft.io/glint/badge.svg" height="20">
+</div>
+
 
 ## 🌄 I'm interested in working on
 * An SPA framework for PureScript
