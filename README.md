@@ -9,8 +9,8 @@
 
 ## 🛠️ I'm currently working on
 <div>
-<img align=middle src="https://i.imgur.com/CEMHr0N.png" height="48"> &nbsp
-<img align=middle src="https://snapcraft.io/glint/badge.svg" height="20">
+  <a href="https://glint.info"><img align=middle src="https://i.imgur.com/CEMHr0N.png" height="48"></a> &nbsp
+  <a href="https://glint.info"><img align=middle src="https://snapcraft.io/glint/badge.svg" height="20"></a>
 </div>
 
 
