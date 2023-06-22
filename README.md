@@ -8,10 +8,10 @@
 ![View counter badge](https://mjerred.mjerred.workers.dev?style=classic)
 
 ## 🛠️ I'm currently working on
+### [Glint Git GUI](https://glint.info)
 <div>
   <a href="https://glint.info"><img align=middle src="https://i.imgur.com/CEMHr0N.png" height="48"></a> &nbsp
   <a href="https://glint.info"><img align=middle src="https://snapcraft.io/glint/badge.svg" height="20"></a> &nbsp
-  <a href="https://glint.info">Git GUI</a>
 </div>
 
 
