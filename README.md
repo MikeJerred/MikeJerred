@@ -37,6 +37,7 @@
 ![Sass](https://img.shields.io/badge/-SCSS-14161A?logo=sass)
 ![Solid](https://img.shields.io/badge/-Solid-14161A?logo=Solid&logoColor=2C4F7C)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/-React-14161A?logo=React)
 
 ### 🤩 Excited about
 
