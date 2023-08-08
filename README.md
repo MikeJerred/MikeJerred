@@ -59,7 +59,10 @@
 
 
 ## 📈 Stats
+[![CodersRank](https://i.imgur.com/qNVK5MN.png)](https://profile.codersrank.io/user/mikejerred)
+<!--
 [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mikejerred&branding=false&style=--header-bg-color:%23151515;--bg-color:%23151515;--badge-bg-color:%23252525;--badge-text-color:%23fff;)](https://profile.codersrank.io/user/mikejerred)
+-->
 
 [![GitHub](https://github-readme-stats-mikejerred.vercel.app/api?username=MikeJerred&count_private=true&show_icons=true&theme=dark&icon_color=29b6f6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
