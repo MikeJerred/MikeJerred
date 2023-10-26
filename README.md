@@ -22,11 +22,23 @@
 
 ## 👨‍💻 Tech
 
+### ❤️ Current Favorites
+![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
+![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
+
 ### 😃 Used recently
 
+![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
+![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/-React-14161A?logo=React)
+![Python](https://img.shields.io/badge/-Python-14161A?logo=Python)
+![Azure](https://img.shields.io/badge/-Azure-14161A?logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/-Terraform-14161A?logo=terraform)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Electron](https://img.shields.io/badge/-Electron-14161A?logo=Electron)
+![Solid](https://img.shields.io/badge/-Solid-14161A?logo=Solid&logoColor=2C4F7C)
 ![Nodejs](https://img.shields.io/badge/-Node.js-14161A?logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-14161A?logo=Express)
 ![Material Design](https://img.shields.io/badge/-Material%20Design-14161A?logo=Material+Design&logoColor=ffffff)
@@ -35,9 +47,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-14161A?logo=Microsoft+SQL+Server&logoColor=CC2927)
 ![HTML](https://img.shields.io/badge/-HTML-14161A?logo=html5)
 ![Sass](https://img.shields.io/badge/-SCSS-14161A?logo=sass)
-![Solid](https://img.shields.io/badge/-Solid-14161A?logo=Solid&logoColor=2C4F7C)
-![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
-![React](https://img.shields.io/badge/-React-14161A?logo=React)
 
 ### 🤩 Excited about
 
@@ -47,7 +56,6 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=Tauri)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-14161A?logo=GraphQL&logoColor=E10098)
 ![DGraph](https://img.shields.io/badge/-DGraph-14161A?logo=DGraph&logoColor=E50695)
-![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-14161A?logo=Ethereum)
 
 ### 🤮 Stay away from
