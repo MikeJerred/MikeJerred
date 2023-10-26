@@ -26,6 +26,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
+![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 
 ### 😃 Used recently
 
