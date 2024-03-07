@@ -30,6 +30,8 @@
 ![React](https://img.shields.io/badge/-React-14161A?logo=React)
 ![Python](https://img.shields.io/badge/-Python-14161A?logo=Python)
 ![Azure](https://img.shields.io/badge/-Azure-14161A?logo=microsoftazure)
+![Go](https://img.shields.io/badge/-Go-14161A?logo=go)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-14161A?logo=github)
 ![Terraform](https://img.shields.io/badge/-Terraform-14161A?logo=terraform)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
@@ -43,6 +45,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-14161A?logo=Microsoft+SQL+Server&logoColor=CC2927)
 ![HTML](https://img.shields.io/badge/-HTML-14161A?logo=html5)
 ![Sass](https://img.shields.io/badge/-SCSS-14161A?logo=sass)
+
 
 ### 🤩 Excited about
 
