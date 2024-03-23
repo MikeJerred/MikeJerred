@@ -19,12 +19,14 @@
 
 ### ❤️ Current Favorites
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
+![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 
 ### 😃 Used recently
 
+![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
 ![React](https://img.shields.io/badge/-React-14161A?logo=React)
