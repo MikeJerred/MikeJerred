@@ -26,6 +26,7 @@
 
 ### 😃 Used recently
 
+![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
 ![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
