@@ -18,11 +18,12 @@
 ## 👨‍💻 Tech
 
 ### ❤️ Current Favorites
-![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
-![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
+![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
+![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
+![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
+![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
 
 ### 😃 Used recently
 
@@ -36,6 +37,7 @@
 ![Go](https://img.shields.io/badge/-Go-14161A?logo=go)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-14161A?logo=github)
 ![Terraform](https://img.shields.io/badge/-Terraform-14161A?logo=terraform)
+![GraphQL](https://img.shields.io/badge/-GraphQL-14161A?logo=GraphQL&logoColor=E10098)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Electron](https://img.shields.io/badge/-Electron-14161A?logo=Electron)
@@ -52,14 +54,12 @@
 
 ### 🤩 Excited about
 
+![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
+![Ethereum](https://img.shields.io/badge/-Ethereum-14161A?logo=Ethereum)
 ![Rescript](https://img.shields.io/badge/-Rescript-14161A?logo=Rescript&logoColor=e6484f)
 ![Deepkit](https://img.shields.io/badge/-Deepkit-14161A?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzBweCIgaGVpZ2h0PSIzOHB4IiB2aWV3Qm94PSIwIDAgMzAgMzgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU5LjEgKDg2MTQ0KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5kZWVwa2l0X2xvZ288L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iV2Vic2l0ZSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkFydGJvYXJkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTEyLjAwMDAwMCwgLTIzLjAwMDAwMCkiIGZpbGw9IiNmZmZmZmYiPgogICAgICAgICAgICA8ZyBpZD0ibG9nby13aGl0ZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTEyLjAwMDAwMCwgMjMuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOS4zNzUsOS41IEwyNC4zNzUsMzQuODMzMzMzMyBMMjIuNSwzOCBMMTguNzUsMzggTDkuMzc1LDIyLjE2NjY2NjcgTDcuNSwyNS4zMzMzMzMzIEwxNSwzOCBMNy41LDM4IEwxLjI3ODk3NjkyZS0xMywyNS4zMzMzMzMzIEw5LjM3NSw5LjUgWiBNMTUsMS40MjEwODU0N2UtMTQgTDMwLDI1LjMzMzMzMzMgTDI2LjI1LDMxLjY2NjY2NjcgTDExLjI1LDYuMzMzMzMzMzMgTDE1LDEuNDIxMDg1NDdlLTE0IFoiIGlkPSJkaWFtb25kIj48L3BhdGg+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=)
-![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 ![PureScript](https://img.shields.io/badge/-PureScript-14161A?logo=PureScript)
-![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=Tauri)
-![GraphQL](https://img.shields.io/badge/-GraphQL-14161A?logo=GraphQL&logoColor=E10098)
 ![DGraph](https://img.shields.io/badge/-DGraph-14161A?logo=DGraph&logoColor=E50695)
-![Ethereum](https://img.shields.io/badge/-Ethereum-14161A?logo=Ethereum)
 
 ### 🤮 Stay away from
 
@@ -71,9 +71,8 @@
 
 ## 📚 I'm interested in learning about
 * Ethereum / Web3 projects
+* Quantum Computing
 * Artifical Intelligence
-* Quantum Computing (algorithms, QML)
-* Quantitative trading
 
 
 ## 📈 Stats
