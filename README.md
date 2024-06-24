@@ -22,12 +22,13 @@
 ![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
-![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
 
 ### 😃 Used recently
 
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
+![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
