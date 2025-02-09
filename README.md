@@ -19,11 +19,11 @@
 
 ### ❤️ Current Favorites
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
-![Haskell](https://img.shields.io/badge/-Haskell-14161A?logo=Haskell&logoColor=5D4F85)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-14161A?logo=github)
 
 ### 😃 Used recently
 
@@ -72,8 +72,8 @@
 
 
 ## 📚 I'm interested in learning about
-* Ethereum / Web3 projects
 * Quantum Computing
+* Ethereum / Web3 projects
 * Artifical Intelligence
 
 
