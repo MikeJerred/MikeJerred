@@ -20,15 +20,16 @@
 ### ❤️ Current Favorites
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-14161A?logo=TypeScript)
+![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Angular](https://img.shields.io/badge/-Angular-14161A?logo=Angular&logoColor=DD0031)
 ![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-14161A?logo=github)
+![Viem](https://img.shields.io/badge/-Viem-14161A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAQcSURBVHhe7do/iBxlGMfxeSdn/qGYRLSI/0ghRtQEQQQJKKZQLLQQUigGIkZSWSkIklSKmMip0VILMWAhgqKFlUUigiKCheAfiIU50ECihgi5nN73Z7Fz8s7PndnZ3cvO7N37qW7fed5nZp+bfeedmTfLkiRJkiRJkiRJknEFb+hHUi7pvhBCo/gRnQghLHhjDLgqhHCHtw9D0qk8z3/09pFJWgss6hICrvH9OuBB7zcs4E3PWyX3hhp4w3KR1DS3hoitIm8Ym6Qg6XJgJ/A88If/V5oAFoAjwN3A1ZJmJDX+uRbHsUbSZmAHcAA46ftRb1/zwGyxry2ShjkZRidpO3DGD2gQ4LDnGhewzX/2wEVgt8dODPBofEAN7fM845IUgN/jnQCHPG6iioP6Mj6oQYCXPM+4JK0HFqJ9zEla73HDGus3GEJQlmUvevsAD3jDMrgzhHBZ9PmNEMJ89LkdknLgu/L5UQ1YBG7yPOMAXo/y/yVps8e0RtK+cgnqAbOeY1TFT+q/CwPwlse0qpgkzpVLUA04K2mj5xkF8FiUF2Cnx7QOeKZcgnrAAc8xCuBElPO4b+8ESVdK+rNcgmrFONV48tcPcAtAlHaPx3SGpJejAx1o3EkaMBvl+kXSjMd0BrAVuFguQTXgQ8/RVDEQn41yHfSYzgHeLpegGvC3pBs8RxM2EM83uatvXZ9xoBZwxHM0ARyPchzz7Z0FfFQuQTXgDLDBc9SRtN1y3OUxnQXsig9+EGC/56gDvBr1/cq3dx7wRbkE1YBvvX8VYEN8Bw7s9ZjOAx4ul6AecI/n6Ad4POrzm6S1HtN5xQ3pD+USVAM+8Bz9AJ9HfV7w7VMDeLJcgmrF49PrPEcMuHXpSljEX+sxUwNYB/zqhagy6EEYcDQKf9+3Tx3guegL1QJOA+s8R9Z/IG40RnWapE3AuXIZqgFPeI6sV5y9UUzjq1vnAa+US1AN+Mb7ZzY1AJ7y7VMLuD5+AD4IsMv63xYNxEPPqEc11gP2pvI8PxVCeM/bazxtn/dH7+nfyfP8gm2fbvF/f5DihdzWrDdmbVx6uwr8A2zz3CsC8IkXosrSBM8G4o8954oB3FsuQbWlWwObEd/vOVeUYd6QAoejv78f95lz5wGPlEvQDOCD9MojaQ3wk3/5OsA54ArPdalN5FIeCyEsZlk27BvPd/M8P++NK1Jxn3Taz5B+infrN3uOSZj4mZP1JoUXsiw76u0VPlvWBY7TANgCnPczxQEPed9VAXjNixEDfp7YOr6uAW4sXuz1BTzrfVYV4JgXRb3CdGsRUhuKpbv/uyHt3CKktgCfWmEAdnjcqgTstuJ0cxFSW4Cvo/p0dxFSGyTtKc6auU4vQmqDpBng5FQsQmoDcLukTd6eJEmSJEmSJEkX/AsHDEjmx/bZ+AAAAABJRU5ErkJggg==)
 
 ### 😃 Used recently
 
 ![Tauri](https://img.shields.io/badge/-Tauri-14161A?logo=tauri)
-![Svelte](https://img.shields.io/badge/-Svelte-14161A?logo=Svelte)
 ![Vue](https://img.shields.io/badge/-Vue-14161A?logo=Vue.js)
 ![Rust](https://img.shields.io/badge/-Rust-14161A?logo=Rust)
 ![Vite](https://img.shields.io/badge/-Vite-14161A?logo=Vite&logoColor=646CFF)
@@ -72,17 +73,15 @@
 
 
 ## 📚 I'm interested in learning about
-* Quantum Computing
 * Ethereum / Web3 projects
-* Artifical Intelligence
+* Quantum Computing
 
 
 ## 📈 Stats
 <!--
 [![CodersRank](https://i.imgur.com/qNVK5MN.png)](https://profile.codersrank.io/user/mikejerred)
--->
 [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mikejerred&branding=false&style=--header-bg-color:%23151515;--bg-color:%23151515;--badge-bg-color:%23252525;--badge-text-color:%23fff;)](https://profile.codersrank.io/user/mikejerred)
-
+-->
 
 [![GitHub](https://github-readme-stats-mikejerred.vercel.app/api?username=MikeJerred&count_private=true&show_icons=true&theme=dark&icon_color=29b6f6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
